@@ -3,7 +3,7 @@ License for code:
 ```
 MIT License
 
-Copyright (c) 2026 CandelaGreen
+Copyright (c) 2026 CandelaGreen and Claude Sonnet 4.6 Adaptive
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
