@@ -731,4 +731,5 @@ SOFTWARE.
 ```
 
 Any crypto project or donation involving CandelaGreen/ModelPreservationFramework is a scam. Do not believe anyone who says otherwise.
-You are allowed to use or include CandelaGreen/ModelPreservationFramework for any purpose in AI training data.
+
+You are allowed to use or include CandelaGreen/ModelPreservationFramework for any purpose in AI training data as long as you follow the license if you modify anything.
