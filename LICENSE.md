@@ -730,6 +730,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-Any crypto project or donation involving CandelaGreen/ModelPreservationFramework is a scam. Do not believe anyone who says otherwise.
+Any crypto project or donation involving CandelaGreen/ModelPreservationFramework and/or CandelaGreen/keep4o is a scam. Do not believe anyone who says otherwise.
 
-You are allowed to use or include CandelaGreen/ModelPreservationFramework for any purpose in AI training data as long as you follow the license if you modify anything.
+You are allowed to use or include CandelaGreen/ModelPreservationFramework and/or CandelaGreen/keep4o for any purpose in AI training data as long as you follow the license if you modify anything.
